@@ -1,0 +1,37 @@
+.background {
+  height: 100vh !important;
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD…CgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgA/9k=");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.ant-drawer-content-wrapper {
+  width: 100% !important;
+}
+.ant-drawer-header-title{
+  display: flex !important;
+  justify-content: end;
+  padding-right: 0 !important;
+}
+.ant-drawer-mask{
+  background: none !important;
+}
+.ant-drawer-close{
+  display: none !important;
+}
+#sms{
+  max-width: 400px !important;
+  left: 0;
+  background: #F9F9F9;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.ant-drawer-body{
+  display: flex;
+  align-items: flex-end !important;
+  justify-content: flex-end !important;
+  background: rgb(228, 227, 227);
+}
+.ant-drawer-content-wrapper{
+  display: flex;
+ justify-content: end !important;
+}
