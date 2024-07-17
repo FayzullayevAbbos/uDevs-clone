@@ -98,7 +98,7 @@ function Messege({ openSms, setOpenSms }) {
             
               className='w-full px-10'
               placeholder='messege'
-              type='email'
+              type='text'
               size='large'
             />
           </Form.Item>
